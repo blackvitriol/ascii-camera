@@ -5,7 +5,7 @@ ASCII Camera uses the HTML5 getUserMedia API to transform a video stream from yo
 
 **[See it in action](https://idevelop.ro/ascii-camera/)**.
 
-<img src="http://idevelop.github.com/ascii-camera/images/screenshot.png" />
+<img src="https://github.com/blackvitriol/ascii-camera/blob/master/images/ascii.png?raw=true" />
 
 ## Supported browsers
 
